@@ -4,6 +4,7 @@ public class LinkFormState {
     private Integer urlError = null;
     private final boolean isDataValid;
 
+	//sss
     LinkFormState(Integer urlError) {
         this.urlError = urlError;
         this.isDataValid = false;
