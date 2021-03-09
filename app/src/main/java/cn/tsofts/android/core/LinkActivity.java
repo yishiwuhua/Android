@@ -33,7 +33,7 @@ public class LinkActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_link);
 
-        //申请权限bbb
+        //申请权限aaa
         if (ContextCompat.checkSelfPermission(LinkActivity.this, Manifest.permission.WRITE_EXTERNAL_STORAGE) != PERMISSION_GRANTED) {
             ActivityCompat.requestPermissions(LinkActivity.this, new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, 1);
         }

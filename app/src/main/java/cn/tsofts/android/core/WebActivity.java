@@ -1,5 +1,7 @@
 package cn.tsofts.android.core;
-
+/**
+sss
+**/
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.AlertDialog;
