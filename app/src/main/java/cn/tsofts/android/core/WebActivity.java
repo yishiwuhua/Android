@@ -1,6 +1,6 @@
 package cn.tsofts.android.core;
 /**
-sss
+sssssssss
 **/
 import android.annotation.SuppressLint;
 import android.app.Activity;
