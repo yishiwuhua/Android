@@ -2,6 +2,7 @@ package cn.tsofts.android.core;
 /**
 惊雷无声
 2004年，第一次用QQ，起的昵称，那个时候，专门用昵称查找，没有人用过这个昵称，所以选择了这个，现在搜索了一下，一大片……
+像记录个什么来，忘了
 */
 import android.Manifest;
 import android.app.Activity;
